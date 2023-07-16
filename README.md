@@ -1,4 +1,4 @@
-# ESP32 Magic Home Surp Life WiFi Light Control
+# ESP32/Arduino Magic Home Surp Life WiFi Light Control
 
 ## Description
 
